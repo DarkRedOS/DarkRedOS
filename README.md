@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link](https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I like bash but I don't know how to code in it **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
