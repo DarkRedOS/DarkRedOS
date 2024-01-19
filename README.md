@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my final year project**
 
-- 🌱 I’m currently learning **C and Python**
+- 🌱 I’m currently learning **Postman for API's**
 
 - 🤝 I’m looking for help with **Deep Learning and related**
 
