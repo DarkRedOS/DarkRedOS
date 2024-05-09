@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **app development and java**
 
-- 📫 How to reach me **omsnow@proton.me**
+- 📫 How to reach me **omshegokar1513@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link](https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link)
 
