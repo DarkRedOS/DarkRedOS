@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkredos&label=Profile%20views&color=0e75b6&style=flat" alt="darkredos" /> </p>
 
-- 🔭 I’m currently working at **Juspay**
+- 🔭 I’m currently working at **JUSPAY**
 
-- 🌱 I’m currently learning Shopify's template language = **.liquid**
+- 🌱 I’m currently learning Shopify's template language **Liquid**
 
 - 🤝 I’m looking for help with **Deep Learning and related**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DarkRedOS](https://github.com/DarkRedOS)
-
 - 💬 Ask me about **Android App Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DarkRedOS](https://github.com/DarkRedOS)
 
 - 📫 How to reach me **omshegokar1513@gmail.com & https://www.linkedin.com/in/omshegokar/**
 
