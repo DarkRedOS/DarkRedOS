@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkredos&label=Profile%20views&color=0e75b6&style=flat" alt="darkredos" /> </p>
 
-- 🔭 I’m currently working on **my final year project**
+- 🔭 I’m currently working at **Juspay**
 
-- 🌱 I’m currently learning **Postman for API's**
+- 🌱 I’m currently learning Shopify's template language = **.liquid**
 
 - 🤝 I’m looking for help with **Deep Learning and related**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkRedOS](https://github.com/DarkRedOS)
 
-- 💬 Ask me about **app development and java**
+- 💬 Ask me about **Android App Development**
 
-- 📫 How to reach me **omshegokar1513@gmail.com**
+- 📫 How to reach me **omshegokar1513@gmail.com & https://www.linkedin.com/in/omshegokar/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link](https://drive.google.com/file/d/1SjN9HBpbq6DCuk1jnzvPgah5OeykCjbR/view?usp=drive_link)
 
-- ⚡ Fun fact **I like bash but I don't know how to code in it **
+- ⚡ Fun fact **I like bash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
