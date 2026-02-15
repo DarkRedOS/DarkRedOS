@@ -117,4 +117,10 @@ I believe in mastering the tools to maximize efficiency.
 * 📝 **Editor:** VS Code + **Cline** for AI-assisted coding.
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkRedOS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
