@@ -1,5 +1,6 @@
+![marketing_linkedin_banner](https://github.com/user-attachments/assets/f92e3116-b5b2-419c-84e5-75f638ef14be)
 <h1 align="center">Hi 👋, I'm Om Shegokar</h1>
-<h3 align="center">Product Solutions Engineer @ JUSPAY | AI & Android Developer</h3>
+<h3 align="center">Software Engineer @ JUSPAY | AI & Android Developer</h3>
 
 <p align="center">
   <em>Bridging the gap between complex payment orchestration, D2C eCommerce, and Production AI Systems.</em>
