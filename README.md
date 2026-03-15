@@ -16,7 +16,7 @@
   <a href="mailto:omshegokar1513@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1pHr-TMltJvar0sQCfeuHHv-1VW3Ua0al/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ueGL0jFV2S_8OahVMnfZK9aCoTTYhIWr/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
